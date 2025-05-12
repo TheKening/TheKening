@@ -43,24 +43,23 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 📊 Profile Statistics
+## 📊 GitHub Profile Statistics
 
- <div align=center>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheKening&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" />
 
 </div>
- 
- 
 
-### 📊 Most Used Language
+---
 
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=TheKening&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
+### 💻 Most Used Languages
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheKening&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
  
 
 ---
